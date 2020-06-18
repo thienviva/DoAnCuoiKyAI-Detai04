@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+  Đồ án.cpp
+  Generating Code...
+D:\Trí tuệ nhân tạo\Đồ án\Graph.h(866): warning C4715: 'Graph::biDirSearch1': not all control paths return a value
+  Đồ án.vcxproj -> D:\Trí tuệ nhân tạo\Đồ án\Debug\Đồ án.exe
